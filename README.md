@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/falahgs-mcp-storybook-image-generator-badge.png)](https://mseep.ai/app/falahgs-mcp-storybook-image-generator)
+
 # MCP Storybook Image Generator
 
 A professional-grade server that generates beautiful storybook images with matching children's stories using Google's Gemini AI.
